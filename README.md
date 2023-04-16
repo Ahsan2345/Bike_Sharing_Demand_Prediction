@@ -40,7 +40,7 @@ Holiday - Holiday/No holiday
 
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-#Conclusions:
+<b>Conclusions:</b>
 
 As we have calculated MAE,MSE,RMSE and R2 score for each model. Based on r2 score will decide our model performance.
 
